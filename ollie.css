@@ -10964,7 +10964,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .infos {
-  height: 100px;
+  height: 240px;
   padding-bottom: 20px;
   color: #fff;
   display: -webkit-box;
@@ -11700,4 +11700,6 @@ pre .code {
 .section.bg-overlay {
   background: #1f5a85;
   color: #fff;
+    
+height: 400px;
 }
