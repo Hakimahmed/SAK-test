@@ -6835,6 +6835,7 @@ a.close.disabled {
   position: relative;
   width: 100%;
   overflow: hidden;
+  margin-top: 140px;
 }
 
 .carousel-inner::after {
